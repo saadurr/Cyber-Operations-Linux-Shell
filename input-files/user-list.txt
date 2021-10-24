@@ -1,0 +1,11 @@
+Computer ID,User ID,M,T,W,T,F
+Computer1,User3,5,7,3,5,2
+Computer2,User5,8,8,8,8,8
+Computer3,User4,0,8,0,8,4
+Computer4,User1,5,4,5,5,8
+Computer5,User2,9,8,10,0,0
+Computer6,User7,4,7,8,2,5
+Computer7,User6,8,8,8,0,0
+Computer8,User9,5,2,0,6,8
+Computer9,User8,2,5,7,3,6
+Computer10,User10,8,9,9,9,10

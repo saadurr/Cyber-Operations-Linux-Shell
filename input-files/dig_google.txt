@@ -1,0 +1,18 @@
+
+; <<>> DiG 9.16.1-Ubuntu <<>> google.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39875
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		52	IN	A	216.58.204.78
+
+;; Query time: 29 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1)
+;; WHEN: Sat Sep 19 12:20:54 BST 2020
+;; MSG SIZE  rcvd: 44
+
