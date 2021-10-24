@@ -1,0 +1,10 @@
+User4 4
+User9 4.2
+User3 4.4
+User8 4.6
+User6 4.8
+User7 5.2
+User1 5.4
+User2 5.4
+User5 8
+User10 9
